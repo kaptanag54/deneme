@@ -1,0 +1,14 @@
+{
+  "name": "nizambot-v2",
+  "version": "0.0.1",
+  "description": "NizamBot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "MecitBey",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
